@@ -1,74 +1,63 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# La Rhumerie
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+La Rhumerie est un site web pour un bar, créé avec React et Tailwind CSS. Le site propose des fonctionnalités variées pour présenter les menus, les événements et les détails des produits proposés par le bar.
 
-## Available Scripts
+## Lien du site
 
-In the project directory, you can run:
+Le site est hébergé sur Firebase et est accessible à l'adresse suivante :
+(https://la-rhumerie-web-site.web.app)
 
-### `npm start`
+## Technologies utilisées
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React** : Pour la structure et la gestion de l'interface utilisateur.
+- **Tailwind CSS** : Pour le design et la mise en page rapide et efficace.
+- **Firebase** : Pour l'hébergement et la gestion des données en temps réel.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Fonctionnalités
 
-### `npm test`
+- **Pages principales** :
+  - **Accueil** : Présentation générale du bar.
+  - **Menu** : Liste des boissons et plats disponibles.
+  - **Événements** : Informations sur les événements à venir.
+  - **Détails des produits** : Informations détaillées sur les produits spécifiques.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Déploiement en ligne
 
-### `npm run build`
+Nous avons appris à déployer le site en ligne en utilisant Firebase comme hébergeur. Voici les étapes principales que nous avons suivies pour le déploiement :
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Configuration de Firebase pour l'hébergement du projet.
+2. Déploiement de l'application via les outils Firebase CLI.
+3. Gestion des configurations et des règles de sécurité sur Firebase.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Collaboration
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Ce projet a été développé en collaboration avec un collègue. Nous avons travaillé ensemble pour définir le design et les fonctionnalités du site. Voici quelques aspects de notre collaboration :
 
-### `npm run eject`
+- **Design** : Nous avons décidé ensemble du design général et des éléments visuels du site.
+- **Développement** : Nous avons partagé les tâches de développement, en utilisant Git pour la gestion de version et la collaboration.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Installation et exécution
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Pour cloner et exécuter ce projet localement, veuillez suivre les étapes ci-dessous :
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Clonez le dépôt :
+   ```sh
+   git clone https://github.com/trekkali/La-Rhumerie.git
+   cd La-Rhumerie
+   
+2. Installez les dépendances :
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```sh
+npm install
 
-## Learn More
+3. Exécutez l'application :
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```sh
+npm start
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Aperçu
 
-### Code Splitting
+Auteur
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# La-Rhumerie
->>>>>>> 2557c1795b65545c5be69709011475e251fa66ca
+Andy BEUGRÉ
+Bienvenu SEKONGO
